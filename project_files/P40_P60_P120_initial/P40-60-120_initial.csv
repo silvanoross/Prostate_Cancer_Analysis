@@ -1,4 +1,5 @@
 Field,P40_score,P40_pct_lesion,P40_adm,P40_score,P40_pct_lesion,P40_adm,P40_score,P40_pct_lesion,P40_adm,P60_score,P60_pct_lesion,P60_adm,P60_score,P60_pct_lesion,P60_adm,P120_score,P120_pct_lesion,P120_adm,P120_score,P120_pct_lesion,P120_adm
+0,4,50,,3,75,,2,100,,4,50,,1,100,,,,,,,
 1,0,,,0,,,0,,,0,,,1,,A,4,,,4,25,
 2,0,,,0,,,0,,,0,,,2,,,4,25,A,2,,
 3,0,,,0,,,0,,,0,,,1,,A,6,25,A,1,25,

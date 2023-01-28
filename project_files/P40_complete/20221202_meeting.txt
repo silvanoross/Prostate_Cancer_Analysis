@@ -1,0 +1,35 @@
+Meeting 12-02-2022
+
+1356-1445
+
+worked on project for 1.5 hours
+
+Address things: 
+P40, 
+make the pie charts numbers correlate to the number of lesion score, not percentage, keep percentage in the legend. get rid of percentage in pie chart. 0 starts at noon. 
+possible invert axis. or start clockwise at 0 at the top read clockwise. 
+
+make all blue, 0 is gray. black circle around adm.
+
+send stacked
+
+make color schemes consistent between 
+
+color scheme 
+
+STATS - BETWEEN TWO GROUPS
+LESION SCORE/FIELD. 
+
+PIE CHARTS
+
+(separate pie charts for median to get rid of outliers)
+two pie charts, one for all KC and one for just the median 11 without the outlier 
+
+(in excel spreadsheet far to the right)
+11 from KCG with most fields(6, 7, 11, 13, 15, 17)-CUTOUT LOW END OF KCG
+11 from KC(1 - most active)-CUTOUT HIGH END, making the two groups as similar as possible
+still looks like more activity in KC than KCG
+
+Methods Paper:
+
+How I created the data. 
