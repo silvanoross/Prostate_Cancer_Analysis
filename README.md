@@ -1,5 +1,5 @@
 # Prostate Cancer Analysis in Mice
-Utilizes a seaborn relplot to visualize prostate cancer progression in mouse models.
+Innovative grid plotting with hvPlot and dataframe manipulation using Pandas to create an analog for pancreatic cancer pathogenesis in Gna15 control and knockout groups.
 
 In collaboration with Tom Wilkie, Sarthak Reddy et al at the Wilkie Lab in UT Southwestern, Dallas TX.
 
@@ -21,9 +21,10 @@ Libraries used:
 
 ### We have developed a framework for visualizing prostate cancer pathogenesis in the Gna15 control and knockout cohorts. KCG mice are the Gna15 knockout groups and KC are the control mice with functional Gna15
 **Source**
+>> Innamorati, G., Wilkie, T.M., Malpeli, G. et al. Gα15 in early onset of pancreatic ductal adenocarcinoma. Sci Rep 11, 14922 (2021). https://doi.org/10.1038/s41598-021-94150-3
+
 > <https://www.nature.com/articles/s41598-021-94150-3#:~:text=The%20GNA15%20gene%20is%20ectopically,toward%20pathways%20with%20oncogenic%20potential.>
 
-> Innamorati, G., Wilkie, T.M., Malpeli, G. et al. Gα15 in early onset of pancreatic ductal adenocarcinoma. Sci Rep 11, 14922 (2021). https://doi.org/10.1038/s41598-021-94150-3
 
 ### Here are some of the plots comparing lesion scores and their totals:
 
